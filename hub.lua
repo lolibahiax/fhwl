@@ -1,1 +1,3 @@
-print("hello kid")
+return {
+    enabled = true,
+}
